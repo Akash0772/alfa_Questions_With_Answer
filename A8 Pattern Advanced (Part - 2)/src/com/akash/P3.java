@@ -1,5 +1,13 @@
 package com.akash;
 // Print Inverted Half Pyramid Pattern
+/*
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+
+ */
 public class P3 {
 	public static void inverted_half_pyramid_with_number(int n) {
 		//outer loop
