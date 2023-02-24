@@ -1,5 +1,5 @@
 package com.akash;
-// Syntax With Parameter
+// Actual & Formal Parameter
 import java.util.Scanner;
 public class M2 {
 	public static int syntax_with_parameter(int num1, int num2) { //formal parameter (input statement)
